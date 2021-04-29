@@ -38,8 +38,6 @@ namespace CursoCSharp {
                 {"Usando Continue - Estrutura de Controle", UsandoContinue.Executar}
             });
 
-            Console.WriteLine("Leandro");
-
             central.SelecionarEExecutar();
         }
     }
