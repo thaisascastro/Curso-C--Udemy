@@ -32,7 +32,9 @@ namespace CursoCSharp.EstruturasDeControle
                     break;
             }
 
-           Console.WriteLine("Obrigada pela resposta!");
+           Console.WriteLine("Obrigada pela resposta!\n" +
+               "Thank you!");
+           
         }
     }
 }
