@@ -16,7 +16,7 @@ namespace CursoCSharp.Metodos
 
         public Carro()
         {
-            // classe car
+            // classe carro
         }
 
     }
