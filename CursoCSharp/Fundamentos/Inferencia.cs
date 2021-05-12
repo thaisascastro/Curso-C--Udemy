@@ -20,7 +20,6 @@ namespace CursoCSharp.Fundamentos
 
             Console.WriteLine("O total é " + (a + b));
 
-
         }
     }
 }
