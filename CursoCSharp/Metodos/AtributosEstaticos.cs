@@ -12,6 +12,7 @@ namespace CursoCSharp.Metodos
     {
         public static void Executar()
         {
+            Console.WriteLine("Atributos Estáticos");
         }
     }
 }
