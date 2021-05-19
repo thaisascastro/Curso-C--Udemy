@@ -5,6 +5,7 @@ namespace CursoCSharp.Metodos
     {
         public static void Executar()
         {
+            Console.WriteLine("Wow");
         }
     }
 }
